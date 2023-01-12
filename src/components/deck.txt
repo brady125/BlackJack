@@ -1,0 +1,546 @@
+
+.deck{
+
+    /* center  */
+    /* move right */
+    margin-left: 100px;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+
+}
+
+
+
+.AoC{
+    background-image: url("../images/cards/IMG-3084.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TwoOC{
+    background-image: url("../images/cards/IMG-3085.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.ThreeOC{
+    background-image: url("../images/cards/IMG-3086.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FourOC{
+    background-image: url("../images/cards/IMG-3087.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FiveOC{
+    background-image: url("../images/cards/IMG-3088.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SixOC{
+    background-image: url("../images/cards/IMG-3089.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SevenOC{
+    background-image: url("../images/cards/IMG-3090.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.EightOC{
+    background-image: url("../images/cards/IMG-3091.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.NineOC{
+    background-image: url("../images/cards/IMG-3092.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TenOC{
+    background-image: url("../images/cards/IMG-3093.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.JackOC{
+    background-image: url("../images/cards/IMG-3094.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.QueenOC{
+    background-image: url("../images/cards/IMG-3095.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.KingOC{
+    background-image: url("../images/cards/IMG-3096.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.AoH{
+    background-image: url("../images/cards/IMG-3097.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TwoOH{
+    background-image: url("../images/cards/IMG-3098.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.ThreeOH{
+    background-image: url("../images/cards/IMG-3099.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FourOH{
+    background-image: url("../images/cards/IMG-3100.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FiveOH{
+    background-image: url("../images/cards/IMG-3101.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+
+.SixOH{
+    background-image: url("../images/cards/IMG-3102.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SevenOH{
+    background-image: url("../images/cards/IMG-3103.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.EightOH{
+    background-image: url("../images/cards/IMG-3104.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.NineOH{
+    background-image: url("../images/cards/IMG-3105.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TenOH{
+    background-image: url("../images/cards/IMG-3106.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.JackOH{
+    background-image: url("../images/cards/IMG-3107.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.QueenOH{
+    background-image: url("../images/cards/IMG-3108.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.KingOH{
+    background-image: url("../images/cards/IMG-3109.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.AoS{
+    background-image: url("../images/cards/IMG-3110.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TwoOS{
+    background-image: url("../images/cards/IMG-3111.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.ThreeOS{
+    background-image: url("../images/cards/IMG-3112.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FourOS{
+    background-image: url("../images/cards/IMG-3113.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FiveOS{
+    background-image: url("../images/cards/IMG-3114.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SixOS{
+    background-image: url("../images/cards/IMG-3115.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SevenOS{
+    background-image: url("../images/cards/IMG-3116.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.EightOS{
+    background-image: url("../images/cards/IMG-3117.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.NineOS{
+    background-image: url("../images/cards/IMG-3118.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TenOS{
+    background-image: url("../images/cards/IMG-3119.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.JackOS{
+    background-image: url("../images/cards/IMG-3120.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.QueenOS{
+    background-image: url("../images/cards/IMG-3121.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.KingOS{
+    background-image: url("../images/cards/IMG-3122.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.AoD{
+    background-image: url("../images/cards/IMG-3123.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TwoOD{
+    background-image: url("../images/cards/IMG-3124.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.ThreeOD{
+    background-image: url("../images/cards/IMG-3125.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FourOD{
+    background-image: url("../images/cards/IMG-3126.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.FiveOD{
+    background-image: url("../images/cards/IMG-3127.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SixOD{
+    background-image: url("../images/cards/IMG-3128.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.SevenOD{
+    background-image: url("../images/cards/IMG-3129.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.EightOD{
+    background-image: url("../images/cards/IMG-3130.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.NineOD{
+    background-image: url("../images/cards/IMG-3131.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.TenOD{
+    background-image: url("../images/cards/IMG-3132.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.JackOD{
+    background-image: url("../images/cards/IMG-3133.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.QueenOD{
+    background-image: url("../images/cards/IMG-3134.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+.KingOD{
+    background-image: url("../images/cards/IMG-3135.PNG");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    width: 50px;
+    height: 75px;
+    margin: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

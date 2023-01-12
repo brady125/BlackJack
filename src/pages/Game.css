@@ -1,0 +1,9 @@
+#Game{
+    background-image: url('../images/blackjacktablebackground.jpg');
+    height: 85vh;
+    margin-top: -40px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.671);
+    background-blend-mode: multiply;
+}

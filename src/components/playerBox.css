@@ -1,0 +1,26 @@
+.playerBox {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 260px;
+    margin-right: 1100px;
+    display: block;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 100%;
+    color: red;
+    background-color: #222;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,181 @@
+
+.Login{
+    background-image: url(../images/blackjackImage.jpg);
+    background-size:100% 100%;
+    height: 135vh;
+    background-repeat: no-repeat;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: multiply;
+}
+
+#username{
+    margin-left: 75px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#password{
+    margin-left: 75px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#email{
+    margin-left: 75px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#bankroll{
+    margin-left: 75px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 10px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+.header{
+    margin-top: 325px;
+}
+
+.Lucky{ 
+    margin-top: -250px;
+    text-align: center;
+    font-size: 100px;
+    color: red;
+}
+
+.Play{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+
+.signinButton{
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinButton:hover{
+    background-color: green;
+}
+
+.signinButton:active{
+    color: red;
+}
+
+.input{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.password{
+    -webkit-text-security: disc;
+}
+
+.theInput{
+    width: 30vh;
+    margin-left: 450px;
+    margin-bottom: 30px;
+    display: var(--display, block);
+}
+
+form{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#submitMe:hover{
+    background-color: green;
+}
+
+#submitMe:active{
+    color: red;
+}
+
+#loginMe:hover{
+    background-color: green;
+}
+
+#registerMe{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+    font-size: larger;
+}
+
+
+.Register{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+    font-size: larger;
+}
+
+.Option{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+    font-size: larger;
+    background-color: saddlebrown;
+    border: none;
+    cursor: pointer;
+    /* move up */
+    margin-left: 100px;
+    margin-top: -200px;
+
+}
+
+.Option:hover{
+    color: green;
+}
+
+.Option:active{
+    color: red;
+}
+
+.Bonus{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+    font-size: larger;
+}
+
+
+#submitMe{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#Register{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: gold;
+}

@@ -1,0 +1,8 @@
+Hello,
+My Name is Brady Morin and I am a Second Year Software Engineer. 
+I am attempting to re-create the card game poker with a full stack project in react
+I've never played poker but I thought this would be a great way to get started!
+I will also give the user details of the percentages of winning and losing hands and with and without counting cards
+It is December 2022 hopefully I can finish this!
+
+Thank you 
